@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828623641598",
+    "project_id": "protech-chat",
+    "storage_bucket": "protech-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828623641598:android:95a2a1b33378125482beaf",
+        "android_client_info": {
+          "package_name": "my.com.prochat.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC131tUdNkt2ZVIVzinZMzGtFZXeAwlDNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

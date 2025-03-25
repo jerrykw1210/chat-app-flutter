@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter: Launch Application",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "Flutter: Launch Application (Release)",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Flutter: Attach to Process",
+      "request": "attach",
+      "type": "dart",
+      "processId": "${command:pickProcess}",
+      "flutterMode": "debug"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          write_from_json_string_constructor: true
+          databases:
+            my_database: lib/model/database.dart
+          # The directory where the test files are stored:
+          test_dir: test/drift/ # (default)
+
+          # The directory where the schema files are stored:
+          schema_dir: drift_schemas/ # (default)
