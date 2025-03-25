@@ -1,3 +1,3 @@
-# protech_mobile_chat_stream
+# chat-app-flutter
 
 A new Flutter project.
